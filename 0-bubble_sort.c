@@ -6,7 +6,6 @@
  * bubble_sort - function that sorts an array using bubble sort
  * @array: Array
  * @size: size
- * Return: Null
  */
 void bubble_sort(int *array, size_t size)
 {
